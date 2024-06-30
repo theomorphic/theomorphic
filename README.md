@@ -1,4 +1,4 @@
-<img src="https://github.com/theomorphic/theomorphic/blob/main/img/banner-richter.png" style="width: 100%; height: auto;" /> 
+<img src="https://github.com/theomorphic/theomorphic/blob/main/img/banner.webp" style="width: 100%; height: auto;" /> 
 <h1> Hello, it's Misha Kaiser!</h1>
 <p>I'm a software engineer that admires beautiful design and delicious coffee :coffee:</p>
 <p>Trying my best to keep it elegant and useful.</p>
