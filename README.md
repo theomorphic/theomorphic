@@ -38,7 +38,7 @@
 <h2>A few words about me:</h2>
 
 <p align="center">
-  <img src="https://github.com/theomorphic/theomorphic/blob/main/img/pfp-a7.png" align="left" height="auto" width="23%"/>
+  <img src="https://github.com/theomorphic/theomorphic/blob/main/img/pfp-a8.png" align="left" height="auto" width="23%"/>
 </p>
 
 <p>
